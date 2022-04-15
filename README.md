@@ -12,3 +12,7 @@ Para el funcionamiento de la aplicación, cuando se ingresaron los datos en amba
 Finalmente se leen los resultados y se añaden a una tabla junto con su latitud y longitud, y el costo total de la solución que seria la suma de las distancias totales de los centros elegidos.
 
 ![Captura de pantalla 2022-04-15 162915](https://user-images.githubusercontent.com/82238605/163625872-59f6db93-0c8e-4ea4-aeb0-09f7cb79c891.png)
+
+![Captura de pantalla 2022-04-15 163113](https://user-images.githubusercontent.com/82238605/163625922-d5013861-6f83-4bca-9cb4-cc1b1757c29b.png)
+
+![Captura de pantalla 2022-04-15 163158](https://user-images.githubusercontent.com/82238605/163625935-a22ab49b-ed7d-4075-9998-9f12436fe008.png)
